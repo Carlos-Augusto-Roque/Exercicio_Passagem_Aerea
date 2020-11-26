@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\bin\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\bin\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\bin\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\bin\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\bin\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\bin\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\obj\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\obj\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\obj\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\obj\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\obj\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\obj\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Exercicio_Passagem_Aerea\obj\Debug\netcoreapp3.1\Exercicio_Passagem_Aerea.genruntimeconfig.cache

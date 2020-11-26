@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio_Passagem_Aerea/1.0.0": {
+        "runtime": {
+          "Exercicio_Passagem_Aerea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Passagem_Aerea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
